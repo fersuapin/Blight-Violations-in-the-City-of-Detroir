@@ -19,6 +19,7 @@ We will start our coding project by using the Pandas library for data analysis a
 ![image](https://user-images.githubusercontent.com/36652766/157273686-c294e3ef-9935-4473-ba13-5d3420281581.png)
 
 We will then split our dataset into two diferent datasets using Scikit-learn’s train_test_split function, our training and testing set. The training set will be used to train the machine learning model, whilst the testing set will be used to evaluate the model. We will also create one last dataset containing only the labels from our test set in order to validate our model.
+
 ![image](https://user-images.githubusercontent.com/36652766/157273727-278536fb-e13d-4f19-b5b4-9ac614d4c485.png)
 
 ## Data Preprocessing
